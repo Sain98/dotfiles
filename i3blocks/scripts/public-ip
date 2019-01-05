@@ -1,0 +1,16 @@
+#!/usr/bin/python
+from urllib2 import urlopen, URLError
+
+try:
+	d = urlopen("http://ip.42.pl/short").read()
+except URLError as e:
+	print("OFFLINE") # long text
+	print("OFFLINE") # short text
+	# color
+	print("#FF0000")
+	quit()
+
+print("Public IP: %s" % d) # full text
+print("%s" % d) # short text
+# color
+print("#00FF00")

@@ -1,0 +1,4 @@
+d=`date +%d/%m/%Y`
+
+echo "${d}"	# full text
+echo "${d}"	# short text

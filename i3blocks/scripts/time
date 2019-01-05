@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#date +%d/%m/%Y && date +%T
+
+#DMY=`date +%d/%m/%Y`
+
+HR=`date +%T`
+
+#echo "${DMY} | ${HR}" # full text
+echo "${HR}" # full text
+echo "${HR}" # short text
+
