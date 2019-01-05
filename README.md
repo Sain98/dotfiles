@@ -7,6 +7,8 @@ some other stuff you will probably need to download aswell
 Most recent:
 ![alt text](https://raw.githubusercontent.com/Sain98/dotfiles/master/conf/edf53bd5a50030f71408fc12a25f301a.png)
 
+Lock-screen:
+![alt text](https://raw.githubusercontent.com/Sain98/dotfiles/master/conf/lock.png)
 alt+tab:
 ![alt text](https://raw.githubusercontent.com/Sain98/dotfiles/master/conf/tab.png)
 
